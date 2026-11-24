@@ -1,4 +1,4 @@
-# NOCTELLE — clone sinematik
+# NOCTELLE — situs sinematik
 
 <p align="center"><img src="docs/preview/homepage.gif" alt="Pratinjau halaman beranda NOCTELLE" width="720"></p>
 
@@ -44,10 +44,9 @@ assets/
 - Profil/riwayat kerja: blok `#introModal` di `index.html` (versi `data-intro-lang="id"` dan `"en"`).
 - Semua nama perusahaan, sekolah, klien, dan angka adalah **fiktif/placeholder**.
 
-## Catatan kejujuran (beda dari referensi)
+## Catatan aset
 
-- Ilustrasi & video referensi adalah karya orisinal mereka; di sini diganti stok Mixkit/Unsplash yang di-_grade_ agar mood-nya mirip.
-  Karena itu komposisi gambar tidak identik (mis. halaman 4 memakai tangan + bola kristal, halaman 5 memakai foto wajah dengan iris yang diwarnai).
-- Font CJK referensi (Songti/SimSun) diganti **Noto Serif** untuk teks utama (Indonesia), Cormorant Garamond tetap sama.
-- GSAP tidak dipakai; animasi ditulis ulang dengan Web Animations API/CSS.
+- Media memakai stok Mixkit/Unsplash yang di-_grade_ agar mood-nya konsisten.
+- Font utama **Noto Serif** untuk teks Indonesia, dipadukan dengan Cormorant Garamond.
+- GSAP tidak dipakai; animasi ditulis dengan Web Animations API/CSS.
 - Kredit media lengkap: `assets/img/CREDITS.txt`.
